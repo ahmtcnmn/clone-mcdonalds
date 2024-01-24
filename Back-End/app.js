@@ -19,8 +19,8 @@ const transporter = nodemailer.createTransport({
   },
   port: 587,
   auth: {
-    user: "info@mesopotamiaglobal.com",
-    pass: "Rp4F0l3yE]x$",
+    user: "",
+    pass: "",
   },
 });
 
