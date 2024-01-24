@@ -1,0 +1,277 @@
+{
+  "secenekler": [
+    {
+      "id": 1,
+      "title": "BURGERLER",
+      "img": "https://www.mcdonalds.com.tr/Files//264f0d51-09a0-4ad8-8d43-e692f97f2397-bigmactek.png"
+    },
+    {
+      "id": 2,
+      "title": "ATIŞTIRMALIKLAR",
+      "img": "https://www.mcdonalds.com.tr/Files//e566298d-0f5a-4a95-9163-8d99d385c3f7-karisikatistirmalik.png"
+    },
+    {
+      "id": 3,
+      "title": "HAPPY MEAL",
+      "img": "https://www.mcdonalds.com.tr/Files/Diger_urunler/77270f8d-3695-4f23-a147-867d3967977c-happymeal.png"
+    },
+    {
+      "id": 4,
+      "title": "TATLILAR & MILKSHAKE'LER",
+      "img": "https://www.mcdonalds.com.tr/Files/Diger_urunler/8d602618-b73c-4f2f-a592-1fa5e62fdfad-bogurtlenlisundae.png"
+    },
+    {
+      "id": 5,
+      "title": "McCAFE",
+      "img": "https://www.mcdonalds.com.tr/Files/Diger_urunler/9b20e332-bd1a-4458-a27e-e9782855706d-mcdcafe.png"
+    },
+    {
+      "id": 6,
+      "title": "İÇECEKLER",
+      "img": "https://www.mcdonalds.com.tr/Files/Diger_urunler/406a8521-998f-45e0-9d15-6eb3732c8b57-cocacola.png"
+    },
+    {
+      "id": 7,
+      "title": "SOSLAR",
+      "img": "https://www.mcdonalds.com.tr/Files/Diger_urunler/e13e162f-38bc-4c73-bfde-5c839250fbdf-ketcapsos.png"
+    }
+  ],
+  "restorankamp": [
+    {
+      "id": 1,
+      "title": "Karşınızda Sezonun Favorileri",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/6b8b5de7-089f-4c21-860f-c2fae7f0ac42-2023-0193-pumpkin-latte-cheesecake-cinnamon-roll-kv-yeni-banner-300x361.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Sırrı Nefis Sütü Fiyatı Olağanüstü",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/6b8b5de7-089f-4c21-860f-c2fae7f0ac42-2023-0193-pumpkin-latte-cheesecake-cinnamon-roll-kv-yeni-banner-300x361.jpg"
+    },
+    {
+      "id": 3,
+      "title": "%100 PORTAKAL SUYUYLA VİTAMİN DEPOLA!",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/8837a2d4-38f6-4173-9a52-759296094038-portakal-300x361px-35tl-.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Aile Menüsü",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/e293c16e-7d8c-428f-9645-494da4e2b2d3-mcd-happy-meal-aile-menusu-300x361.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Favorilerin yazı kışı olmaz",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/e293c16e-7d8c-428f-9645-494da4e2b2d3-mcd-happy-meal-aile-menusu-300x361.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Bugün hangi tatlı modundasın?",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/daec3942-ff16-4438-92a7-b85fb5c04735-mc-2023-009-mccafe-lifestyle-web3-tatli-300x361.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Kahvaltıseverlerin yeni buluşma noktası!",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/6b8b5de7-089f-4c21-860f-c2fae7f0ac42-2023-0193-pumpkin-latte-cheesecake-cinnamon-roll-kv-yeni-banner-300x361.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Menüne Lezzet Katacak 4 Sos!",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/6b8b5de7-089f-4c21-860f-c2fae7f0ac42-2023-0193-pumpkin-latte-cheesecake-cinnamon-roll-kv-yeni-banner-300x361.jpg"
+    }
+  ],
+  "paketkamp": [
+    {
+      "id": 1,
+      "title": "2'li Double Köfte Burger Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/94d4ce35-69d8-4131-b14d-369b9b09c891-2li-doublekofte-300x361-1-.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Big Maç Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/Kampanyalar/guncel/e0d69e60-a334-4c7f-9c7d-ba9b509237fc-big-mac-300x361-2-.jpg"
+    }
+  ],
+  "bulezzeteguven": [
+    {
+      "id": 1,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/Big_Mac.jpg",
+      "title": "% 100 Dana Eti",
+      "description": "Big Mac, Double Big Mac, Happy Meal, Hamburger, Cheeseburger, Double Cheeseburger, McRoyal, Big Tasty Klasik, Quarter Pounder with Cheese, Double Quarter Pounder with Cheese ürünleri için etlerimiz, Namet tarafından %100 dana etinden üretilip piştikten sonra yalnızca tuz ve karabiber ekleniyor.Dünya Standartları Besicilik Sistemine uygun olarak yetiştirilen hayvanlar, veteriner kontrolünde İslami usullere uygun biçimde kesilmektedir. Tüm hayvanlar McDonald’s denetimlerini geçirmiş onaylı çiftliklerde yetiştirilmekte; onaylı kesimhaneler ve üreticilerden tedarik edilmektedir. Çiftlik ve kesimhanelerde McDonald’s Hayvan Refahı kuralları uygulanmakta ve her yıl bağımsız biçimde denetlenmektedir.Misafirlerimizin McDonald's restoranlarında yediği hamburger köftelerinin üretim tarihi ve parti numarası, etin çiftlikteki hangi hayvandan geldiği, hayvana hangi yemlerin verildiği, hangi aşıların yapıldığı izlenebilirlik sistemleri ile takip edilmektedir.2023 verilerine göre McDonald’s’ta kullanılan gıda ürünlerinin %98’i yerel kaynaklardan tedarik edilmektedir. McDonald’s restoranlarında tüm ürünler 1000’in üzerinde kontrolden geçerek misafirlerimize ulaşmaktadır. Ayrıca onaylı tüm McDonald’s Gıda ve Ambalaj tedarikçileri üçüncü taraf denetim firmaları tarafından yıllık olarak denetlenir.Görseller temsilidir. Copyright© McDonald's International Property Company Ltd., McDonald’s markası ve ambleminin tek hak sahibidir."
+    },
+    {
+      "id": 2,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/Patates.jpg",
+      "title": "% 100 Bitkisel Yağ",
+      "description": "Kızartmalarımızda kullandığımız tüm yağlar; yüksek oleikli ayçiçek yağı, kanola yağı ve ayçiçek yağından oluşan sıvı ve %100 bitkisel içerikli bir yağdır.McDonald’s restoranlarında tüm ürünler 1000’in üzerinde kontrolden geçerek misafirlerimize ulaşmaktadır. Ayrıca onaylı tüm McDonald’s Gıda ve Ambalaj tedarikçileri üçüncü taraf denetim firmaları tarafından yıllık olarak denetlenir.Görseller temsilidir. Copyright© McDonald's International Property Company Ltd., McDonald’s markası ve ambleminin tek hak sahibidir."
+    },
+    {
+      "id": 3,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/kulah.jpg",
+      "title": "% 75 Süt",
+      "description": "Külah, Sundae ve McFlurry ürünlerimizde % 75 oranında süt bulunmaktadır. 2023 verilerine göre McDonald’s’ta kullanılan gıda..."
+    },
+    {
+      "id": 4,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/happy_meal.jpg",
+      "title": "Happy Meal",
+      "description": "Happy Meal Etli Burger’de kullanılan et Namet tarafından % 100 dana etinden üretilmekte olup; piştikten sonra yalnızca tuz ve karabiber..."
+    },
+    {
+      "id": 5,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/kontrol_noktalari.jpg",
+      "title": "1000’in üzerinde kontrol noktası",
+      "description": "Restoranlarımızda günlük olarak yapılan kontrollerde Dijital Gıda Güvenliği sistemleri kullanılmaktadır..."
+    },
+    {
+      "id": 6,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/ne_nereden_geliyor.jpg",
+      "title": "Ne Nereden Geliyor?",
+      "description": "McDonald’s, faaliyet gösterdiği her ülkede en son üretim teknolojisine sahip ve kaliteli ürünlere sahip firmalar ile anlaşma yapar. Firmanın açık..."
+    },
+    {
+      "id": 7,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/merak_ettikleriniz.jpg",
+      "title": "Merak Ettikleriniz",
+      "description": ""
+    },
+    {
+      "id": 8,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/gida_guvenligi.jpg",
+      "title": "Gıda Güvenliği",
+      "description": ""
+    },
+    {
+      "id": 9,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/Alerjen_listesi.jpg",
+      "title": "Alerjen listesi",
+      "description": ""
+    },
+    {
+      "id": 10,
+      "img": "https://www.mcdonalds.com.tr/Files/Kalite_global/Sertifikalar.jpg",
+      "title": "Sertifikalarımız",
+      "description": ""
+    }
+  ],
+  "odullerim": [
+    {
+      "id": 1,
+      "puan": 150,
+      "title": "Külah",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/kulah.jpg"
+    },
+    {
+      "id": 2,
+      "puan": 200,
+      "title": "Coca-Cola",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/cola.jpg"
+    },
+    {
+      "id": 3,
+      "puan": 200,
+      "title": "Fitre Kahve",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/mcCafe_filtre.jpg"
+    },
+    {
+      "id": 4,
+      "puan": 200,
+      "title": "Sıcak Çikolata",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/sicakcikolata.jpg"
+    },
+    {
+      "id": 5,
+      "puan": 275,
+      "title": "McFlurry",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/mcFlurry.jpg"
+    },
+    {
+      "id": 6,
+      "puan": 300,
+      "title": "5'li Çıtır Soğan",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/sogan.jpg"
+    },
+    {
+      "id": 7,
+      "puan": 300,
+      "title": "Sundae",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/Sundae.jpg"
+    },
+    {
+      "id": 8,
+      "puan": 350,
+      "title": "Milkshake",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/milkshake.jpg"
+    },
+    {
+      "id": 9,
+      "puan": 450,
+      "title": "Ice Latte",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/ice_latte.jpg"
+    },
+    {
+      "id": 10,
+      "puan": 450,
+      "title": "6'lı Chicken McNuggets",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/nugget.jpg"
+    },
+    {
+      "id": 11,
+      "puan": 650,
+      "title": "Çıtır Tavuk Sandviç",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/tavuk-sandvic.jpg"
+    },
+    {
+      "id": 12,
+      "puan": 750,
+      "title": "Kahvaltı + Çay",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/Kahvaltilik_cay.jpg"
+    },
+    {
+      "id": 13,
+      "puan": 750,
+      "title": "Tatlı + İçecek",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/tatli.jpg"
+    },
+    {
+      "id": 14,
+      "puan": 750,
+      "title": "Cheeseburger Sandviç",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/15e8fb07-4865-4875-9cb6-e6cb78b132a6-cheeseburger-tekli.png"
+    },
+    {
+      "id": 15,
+      "puan": 850,
+      "title": "Çıtır Tavuk Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/citir-tavuk-menu.jpg"
+    },
+    {
+      "id": 16,
+      "puan": 1250,
+      "title": "Happy Meal Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/cheese-burger-menu.jpg"
+    },
+    {
+      "id": 17,
+      "puan": 1300,
+      "title": "Köfte Burger Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/kofte-burger-menu.jpg"
+    },
+    {
+      "id": 18,
+      "puan": 1350,
+      "title": "Cheeseburger Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/d019e29e-84a4-49bf-a73e-5a9bf871c112-cheeseburger-menu.png"
+    },
+    {
+      "id": 19,
+      "puan": 1450,
+      "title": "McChicken Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/f5e3d0d8-cd3d-4fcc-bf74-32413a812835-mcchicken-menu.png"
+    },
+    {
+      "id": 20,
+      "puan": 1700,
+      "title": "Big Mac Menü",
+      "img": "https://www.mcdonalds.com.tr/Files/MYM/747cce89-b19b-4b6d-bb22-2af18a966eeb-big-mac-menu.png"
+    }
+  ]
+}
